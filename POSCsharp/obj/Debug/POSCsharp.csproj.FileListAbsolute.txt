@@ -1,0 +1,133 @@
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe.config
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\bin\Debug\POSCsharp.pdb
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\bin\Debug\MySql.Data.dll
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\bin\Debug\MySql.Data.xml
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csprojResolveAssemblyReference.cache
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Login.resources
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Properties.Resources.resources
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csproj.GenerateResource.Cache
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.exe
+c:\users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.pdb
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.admin.resources
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Register.resources
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.ManageAccount.resources
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.EditProfile.resources
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashier.resources
+C:\Users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.inventory.resources
+C:\Users\asus x200ma\documents\visual studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashierHome.resources
+C:\Users\asus x200ma\Documents\Visual Studio 2015\Projects\POSCsharp\POSCsharp\obj\Debug\POSCsharp.receipt.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe.config
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.exe
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.pdb
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.admin.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashierHome.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.EditProfile.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashier.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.inventory.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Login.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.ManageAccount.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Properties.Resources.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.receipt.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Register.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csproj.GenerateResource.Cache
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\bin\Debug\POSCsharp.pdb
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Delivery.resources
+C:\Users\Cast\Desktop\Login\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Reports.resources
+G:\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe.config
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.exe
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.pdb
+G:\POSCsharp\POSCsharp\bin\Debug\POSCsharp.exe
+G:\POSCsharp\POSCsharp\bin\Debug\POSCsharp.pdb
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csprojResolveAssemblyReference.cache
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.admin.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashierHome.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Delivery.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Reports.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.EditProfile.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.cashier.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.inventory.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Login.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.ManageAccount.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Properties.Resources.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.receipt.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.Register.resources
+G:\POSCsharp\POSCsharp\obj\Debug\POSCsharp.csproj.GenerateResource.Cache
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csprojAssemblyReference.cache
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.admin.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.cashierHome.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Delivery.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Reports.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.EditProfile.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.cashier.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.inventory.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Login.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.ManageAccount.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Properties.Resources.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.receipt.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Register.resources
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csproj.GenerateResource.cache
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.exe
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.pdb
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.exe.config
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.exe
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.pdb
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\bin\Debug\MySql.Data.xml
+C:\Users\hazel\Documents\SCHOOL STUFF\UE\C# files\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csproj.CopyComplete
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.exe.config
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.exe
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\POSCsharp.pdb
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\MySql.Data.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csprojAssemblyReference.cache
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.admin.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.cashierHome.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Reports.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.EditProfile.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.cashier.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.inventory.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Login.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.ManageAccount.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Properties.Resources.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.receipt.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Register.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csproj.GenerateResource.cache
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.csproj.CopyComplete
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.exe
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.pdb
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Form1.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.Core.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.barcodes.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.forms.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.io.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.kernel.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.layout.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.pdfa.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.sign.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.svg.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itextsharp.dll
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.pdb
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\Common.Logging.Core.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.barcodes.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.forms.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.io.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.kernel.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.layout.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.pdfa.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.sign.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itext.svg.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\bin\Debug\itextsharp.xml
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.Pending.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.approval.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.RegisterCustomer.resources
+C:\Users\Cast\Desktop\POSCsharp FINAL\POSCsharp\obj\Debug\POSCsharp.transaction.resources
